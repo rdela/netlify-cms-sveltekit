@@ -1,4 +1,4 @@
-# sveltekit-netlify-cms
+# netlify-cms-sveltekit
 
 A SvelteKit skeleton app with Netlify CMS living in `/admin`. Netlify CMS is configured to directly edit `/routes/*.md` files, which are preprocessed by [mdsvex](https://mdsvex.com).
 
@@ -22,3 +22,7 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`. However, this should _not_ be used to serve your app in production.
+
+## History
+
+This repo was originally cloned from <https://github.com/buhrmi/sveltekit-netlify-cms> on 2022-04-11
